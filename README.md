@@ -1,2 +1,2 @@
-# prabir-252
-dice game 
+# My first project
+# A dice game using html and js
